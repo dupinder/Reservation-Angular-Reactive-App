@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Reservation-app"
+    }
+  },
+  "defaultProject": "Reservation-app",
+  "cli": {
+    "analytics": false
+  }
 }
